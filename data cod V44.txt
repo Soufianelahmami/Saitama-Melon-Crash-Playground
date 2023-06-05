@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 1",
+      "desc":"Saitama Melon Crash Playground 1",
+      "photo":"https://iili.io/H4xFqdl.webp"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 2",
+      "desc":"Saitama Melon Crash Playground 2",
+      "photo":"https://iili.io/H4xFB72.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 3",
+      "desc":"Saitama Melon Crash Playground 3",
+      "photo":"https://iili.io/H4xFCeS.jpg"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 4",
+      "desc":"Saitama Melon Crash Playground 4",
+      "photo":"https://iili.io/H4xFzXe.png"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 5",
+      "desc":"Saitama Melon Crash Playground 5",
+      "photo":"https://iili.io/H4xFnm7.jpg"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 6",
+      "desc":"Saitama Melon Crash Playground 6",
+      "photo":"https://iili.io/H4xFuqb.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 7",
+      "desc":"Saitama Melon Crash Playground 7",
+      "photo":"https://iili.io/H4xFxI9.jpg"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod pack 8",
+      "desc":"Saitama Melon Crash Playground 8",
+      "photo":"https://iili.io/H4xFILu.webp"}
   ]
 
 }
